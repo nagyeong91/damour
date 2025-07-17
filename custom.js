@@ -19,8 +19,8 @@ $(function(){
       i=0
     }
 
-  $(".slider ul li").fadeOut()
-  $(".slider ul li").eq(i).fadeIn()
+  $(".slider ul li").stop(true, true).fadeOut()
+  $(".slider ul li").eq(i).stop(true, true).fadeIn()
   }
   
   setInterval(slide,2000)

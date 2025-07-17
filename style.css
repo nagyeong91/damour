@@ -85,14 +85,14 @@ header {
   width: 100%;
 }
 .slider .s1 {
-  background: url(../img/main/m1.png) no-repeat center/cover;
+  background: url(/damour/img/main/m1.png) no-repeat center/cover;
   display: block;
 }
 .slider .s2 {
-  background: url(../img/main/m2.png) no-repeat center/cover;
+  background: url(/damour/img/main/m2.png) no-repeat center/cover;
 }
 .slider .s3 {
-  background: url(../img/main/m3.png) no-repeat center/cover;
+  background: url(/damour/img/main/m3.png) no-repeat center/cover;
 }
 /* slider */
 
